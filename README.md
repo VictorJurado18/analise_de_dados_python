@@ -13,6 +13,7 @@ Base de dados do Kaggle: https://www.kaggle.com/radmirzosimov/telecom-users-data
 
 ## :memo: Pré-requisitos:
 - Instalar biblioteca plotly:  ```pip install plotly```
+- Utilizar a IDE Jupyter :ringed_planet:
 
 ## :snake: Executando os scripts:
 
